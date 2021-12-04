@@ -1,0 +1,4 @@
+#Sun Nov 21 13:51:56 KST 2021
+base.0=/Users/seonghunbyeon/Downloads/flutter_background_geolocation-4.3.1/example/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
